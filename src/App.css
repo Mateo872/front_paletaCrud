@@ -1,0 +1,37 @@
+.container_color {
+    padding: 2rem 0;
+}
+
+.background {
+    height: 4rem;
+    width: 4rem;
+    background-color: blue;
+}
+
+input {
+    padding: .6rem;
+}
+
+.container_colors {
+    width: 80%;
+    margin: 2rem auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.color {
+    width: 15rem;
+    height: 15rem;
+}
+
+.color h4 {
+    font-size: 1rem;
+}
+
+.color .background {
+    width: 5rem;
+    height: 5rem;
+    border: 2px solid #ddd;
+}
